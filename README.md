@@ -2,7 +2,9 @@
 
 A project to summarize text and convert it into Indian sign language animation.
 
-*Paper: * https://www.scitepress.org/Papers/2023/117282/117282.pdf
+###Paper  
+
+https://www.scitepress.org/Papers/2023/117282/117282.pdf
 
 
 ## Tech used
